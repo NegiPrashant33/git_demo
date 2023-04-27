@@ -45,3 +45,11 @@ git reset --hard 'log hash' (unstaged and removed)
 
 
 Forking in git
+
+staging --> commit --> push
+
+
+Creating an empty file on windows cmd
+	--> copy nul new.txt > nul
+
+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
