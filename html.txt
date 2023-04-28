@@ -1,2 +1,7 @@
 added some text to this html file for practicing purpose
+<<<<<<< HEAD
 this is prashant negi from the other side
+=======
+some more text 
+and some more text
+>>>>>>> origin/feature
