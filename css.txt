@@ -1,1 +1,3 @@
 third style
+first style
+second style
